@@ -1,0 +1,35 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 10;
+
+}
+header{
+    background-color: #852d0d;
+    color: white;
+    padding: 20px;
+}
+
+header h1{
+    margin: 0;
+    font-size: 25px;
+    
+}
+header h2{
+    margin: 0;
+    font-size: 25px;
+    color: #fa2c2c;
+    
+}
+nav{
+    height: 90px;
+    display: flex;
+}
+ul {
+    border: 2px solid #fa2c2c; 
+    padding: 10px; 
+}
+
+/* Style list items */
+li {
+}
